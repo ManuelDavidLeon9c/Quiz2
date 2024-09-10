@@ -1,0 +1,37 @@
+body{
+    background-color: #7fffd4;
+background-image: url("imagen1.jfif.png");
+}h1{
+background-color: blueviolet;
+color: yellow;
+text-align: center;
+text-decoration:overline ;
+
+}
+p{
+    background-color: rgb(250, 245, 245);
+    border: 5px solid black;
+    margin-top: 100px;
+
+}
+p.Pa{
+    border-style: dotted;
+    border-width: 5px 20px;
+    border-color: tomato;
+    outline-style: outset;
+    outline-color: blueviolet;
+    background: green;
+}
+div{
+    border: 20px solid tomato;
+    background-color: azure;
+    padding-top: 50px;
+    padding-right: 30px;
+    padding-bottom: 50px;
+    padding-left: 80px;
+    margin: 20px;
+}
+img.a{
+    vertical-align: text-top;
+
+}
