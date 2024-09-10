@@ -6,6 +6,7 @@ background-color: blueviolet;
 color: yellow;
 text-align: center;
 text-decoration:overline ;
+font-family: 'Times New Roman', Times, serif;
 
 }
 p{
@@ -34,4 +35,9 @@ div{
 img.a{
     vertical-align: text-top;
 
+}
+div.pie{
+    background-color: blueviolet;
+    padding: 10px;
+    text-align: center;
 }
